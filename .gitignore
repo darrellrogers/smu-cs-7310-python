@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large installers
+*.dmg
+*.pkg
+*.iso
+
+# macOS / temporary files
+.DS_Store
+~$*
